@@ -1,4 +1,3 @@
 ## Hello there
 
-- New to github
-- Work in progress
+- Uh, I'll do this thing later. Go away >:(
