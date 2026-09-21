@@ -1,3 +1,2 @@
-## Hello there
-
-- Uh, I'll do this thing later. Go away >:(
+## Hello There
+- Currently I do not have anything extensive to include in this section so you get this sentence instead.
