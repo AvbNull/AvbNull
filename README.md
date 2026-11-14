@@ -8,5 +8,5 @@
 - :sun_with_face: Languages: C#, C/C++, Python, Java, HTML/CSS, and some minor experience in other languages
 - :last_quarter_moon_with_face: Git/Github: Still a beginner for sure, just haven't had much reason to engage
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=avbnull)
-![Top Languages](https://ghstats.dev/api/langs?username=octocat)
+<!-- ![GitHub Stats Card](https://ghstats.dev/api/card?username=avbnull) -->
+<!-- ![Top Languages](https://ghstats.dev/api/langs?username=octocat) -->
