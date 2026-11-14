@@ -9,3 +9,4 @@
 - :last_quarter_moon_with_face: Git/Github: Still a beginner for sure, just haven't had much reason to engage
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=avbnull)
+![Top Languages](https://ghstats.dev/api/langs?username=octocat)
