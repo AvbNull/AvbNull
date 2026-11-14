@@ -1,5 +1,5 @@
 ### Hello there, here's what I do from time to time:
-- :ear_of_rice: Make mods for games I like (you might see [these]([url](https://gamebanana.com/members/3613220)))
+- :ear_of_rice: Make mods for games I like (you might see [these]([https://gamebanana.com/members/3613220])
 - :seedling: Build small one-off programs sometimes (no, you don't get to see these)
 - :deciduous_tree: Play video games (unfortunately this is slightly more fun then coding)
 - :fallen_leaf: And a bunch of other stuff that would make me sound like a really well-rounded person
