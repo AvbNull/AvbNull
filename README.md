@@ -9,7 +9,7 @@
 - :last_quarter_moon_with_face: Git/Github: Still a beginner for sure (cool)
 
 ### Contact
-- Discord: avoidingboredom
+- :milky_way: Discord: avoidingboredom
 
 <!-- ![GitHub Stats Card](https://ghstats.dev/api/card?username=avbnull) -->
 <!-- ![Top Languages](https://ghstats.dev/api/langs?username=octocat) -->
